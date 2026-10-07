@@ -3,7 +3,6 @@
 # (usually in src/host/loader_services.cpp) before the game will start.
 # symbol | needed by
 BuyCCOTimeBlock() | bowling.so
-GlobalDebugLevel() | bowling.so
 StartRentalTimer() | bowling.so
 GetIndexCreditValue(int) | bowling.so
 CreditsManagerI::CoinsDropped() | bowling.so
